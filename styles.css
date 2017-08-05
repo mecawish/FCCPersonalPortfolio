@@ -1,0 +1,18 @@
+body {
+  position: relative;
+}
+
+.anchor {
+   display: block;
+   height: 56px;
+   margin-top: -56px;
+   visibility: hidden;
+}
+
+#meca-photo {
+  height: 200px;
+  border-radius: 100%;
+  display: block;
+  margin: 0 auto;
+  border: 8px solid #D7263D;
+}
